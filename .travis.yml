@@ -1,5 +1,4 @@
 dist: trusty
-sudo: false
 language: generic
 services:
   - docker
@@ -16,7 +15,7 @@ cache:
 deploy:
   provider: script
   script: bash -o xtrace ci/deploy.sh
-  skip_cleanup: true
+  skip_cleanup: false
   on:
     branch: master
     condition: $TRAVIS_EVENT_TYPE = "push"
