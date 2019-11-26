@@ -1,27 +1,19 @@
 ---
-title: "Manuscript Title"
+title: "Ora 2019"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - igneous petrology
+  - geochemistry
+  - trace elements
 lang: en-US
 author_info:
   -
-    github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    github: gennachiaro
+    name: Genna Chiaro
+    initials: GC
+    orcid: 0000-0002-8981-7679
+    twitter: gennachiaro
+    email: gennachiaro@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
-    funders: Grant XXXXXXXX
-  -
-    github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Department of Earth and Environmental Sciences, Vanderbilt University
+
+
