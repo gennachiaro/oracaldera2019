@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/gennachiaro/oracaldera2019/tree/gh-pages) branch hosts the contents of this directory at https://gennachiaro.github.io/oracaldera2019/.
-The permalink for this webpage version is https://gennachiaro.github.io/oracaldera2019/v/fb5939ec9a199d311356227d85752fef7e96a997/.
+The permalink for this webpage version is https://gennachiaro.github.io/oracaldera2019/v/6ba410c6d114d41040447425806daf617141cd8e/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://gennachiaro.github.io/oracaldera2019/v/freeze/.
 
 ## Files
@@ -36,4 +36,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`fb5939ec9a199d311356227d85752fef7e96a997`](https://github.com/gennachiaro/oracaldera2019/commit/fb5939ec9a199d311356227d85752fef7e96a997).
+[`6ba410c6d114d41040447425806daf617141cd8e`](https://github.com/gennachiaro/oracaldera2019/commit/6ba410c6d114d41040447425806daf617141cd8e).
