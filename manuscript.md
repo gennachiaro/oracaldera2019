@@ -1,7 +1,7 @@
 ---
 author-meta:
 - Genna Chiaro
-date-meta: '2019-11-26'
+date-meta: '2019-11-27'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -20,9 +20,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Ora 2019" />
 
-  <meta name="dc.date" content="2019-11-26" />
+  <meta name="dc.date" content="2019-11-27" />
 
-  <meta name="citation_publication_date" content="2019-11-26" />
+  <meta name="citation_publication_date" content="2019-11-27" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -43,6 +43,24 @@ header-includes: '<!--
   <meta name="citation_author_orcid" content="0000-0002-8981-7679" />
 
   <meta name="twitter:creator" content="@gennachiaro" />
+
+  <link rel="canonical" href="https://gennachiaro.github.io/oracaldera2019/" />
+
+  <meta property="og:url" content="https://gennachiaro.github.io/oracaldera2019/" />
+
+  <meta property="twitter:url" content="https://gennachiaro.github.io/oracaldera2019/" />
+
+  <meta name="citation_fulltext_html_url" content="https://gennachiaro.github.io/oracaldera2019/" />
+
+  <meta name="citation_pdf_url" content="https://gennachiaro.github.io/oracaldera2019/manuscript.pdf" />
+
+  <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/oracaldera2019/manuscript.pdf" />
+
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/oracaldera2019/v/fb5939ec9a199d311356227d85752fef7e96a997/" />
+
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/oracaldera2019/v/fb5939ec9a199d311356227d85752fef7e96a997/" />
+
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/oracaldera2019/v/fb5939ec9a199d311356227d85752fef7e96a997/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -70,8 +88,10 @@ title: Ora 2019
 
 <small><em>
 This manuscript
+([permalink](https://gennachiaro.github.io/oracaldera2019/v/fb5939ec9a199d311356227d85752fef7e96a997/))
 was automatically generated
-on November 26, 2019.
+from [gennachiaro/oracaldera2019@fb5939e](https://github.com/gennachiaro/oracaldera2019/tree/fb5939ec9a199d311356227d85752fef7e96a997)
+on November 27, 2019.
 </em></small>
 
 ## Authors
