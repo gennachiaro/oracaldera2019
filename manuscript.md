@@ -56,11 +56,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://gennachiaro.github.io/oracaldera2019/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/oracaldera2019/v/7a070e7c65d4919b40668763b0413e69147cb18e/" />
+  <link rel="alternate" type="text/html" href="https://gennachiaro.github.io/oracaldera2019/v/b092156491bead5e16b6221a50ea72f35e7e5f4c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/oracaldera2019/v/7a070e7c65d4919b40668763b0413e69147cb18e/" />
+  <meta name="manubot_html_url_versioned" content="https://gennachiaro.github.io/oracaldera2019/v/b092156491bead5e16b6221a50ea72f35e7e5f4c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/oracaldera2019/v/7a070e7c65d4919b40668763b0413e69147cb18e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://gennachiaro.github.io/oracaldera2019/v/b092156491bead5e16b6221a50ea72f35e7e5f4c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -88,9 +88,9 @@ title: Ora 2019
 
 <small><em>
 This manuscript
-([permalink](https://gennachiaro.github.io/oracaldera2019/v/7a070e7c65d4919b40668763b0413e69147cb18e/))
+([permalink](https://gennachiaro.github.io/oracaldera2019/v/b092156491bead5e16b6221a50ea72f35e7e5f4c/))
 was automatically generated
-from [gennachiaro/oracaldera2019@7a070e7](https://github.com/gennachiaro/oracaldera2019/tree/7a070e7c65d4919b40668763b0413e69147cb18e)
+from [gennachiaro/oracaldera2019@b092156](https://github.com/gennachiaro/oracaldera2019/tree/b092156491bead5e16b6221a50ea72f35e7e5f4c)
 on January 16, 2020.
 </em></small>
 
